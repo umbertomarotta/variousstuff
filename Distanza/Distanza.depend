@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1360022839 source:c:\users\umberto\distanza\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<gmp.h>
+	<gmpxx.h>
+	<expr.h>
+
